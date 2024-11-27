@@ -1,3 +1,4 @@
 #!/usr/bin/env python3
-
-assert(1 == 2)
+z=1
+k=2
+assert(z<k)
